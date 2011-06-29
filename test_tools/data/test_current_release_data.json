@@ -1,0 +1,32 @@
+{
+    "name": "abalaha",
+    "url": "http://127.0.0.1:8002/project/TST/release/abalaha/",
+    "release_date": "",
+    "number": 1,
+    "created_by": "http://127.0.0.1:8001/api/user/nattapon/",
+    "start_date": "2009-09-01",
+    "project": {
+        "managers": [
+            "http://127.0.0.1:8001/api/user/sinapam/"
+        ],
+        "name": "Test Project",
+        "url": "http://127.0.0.1:8002/project/TST/",
+        "icon_url": "",
+        "last_modified_by": "http://127.0.0.1:8001/api/user/chanita/",
+        "abbreviation": "TST",
+        "created_on": "2009-08-11 06:57:59",
+        "created_by": "http://127.0.0.1:8001/api/user/chanita/",
+        "agile_coaches": [
+            "http://127.0.0.1:8001/api/user/chanita/"
+        ],
+        "start_date": "2009-08-11",
+        "last_modified_on": "2009-08-11 06:57:59",
+        "description": "Proteus Test Project"
+    },
+    "created_on": "2009-09-02 22:24:22",
+    "iteration_length": 2,
+    "last_modified_by": "http://127.0.0.1:8001/api/user/chanita/",
+    "estimated_velocity": 0,
+    "slug": "abalaha",
+    "last_modified_on": "2009-09-02 22:24:22"
+}
