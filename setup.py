@@ -8,5 +8,5 @@ setup(name='test_tools',
       author='Proteus Technologies',
       author_email='team@proteus-tech.com',
       url='http://proteus-tech.com',
-      packages=['test_tools',],
+      packages=['test_tools','test_tools/data/'],
      )
