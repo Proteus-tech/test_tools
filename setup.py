@@ -78,7 +78,7 @@ from distutils.core import setup
 #print 'files = ',files
 
 setup(name='test_tools',
-      version='1.0',
+      version='1.1',
       description='test tools for Django',
       author='Proteus Technologies',
       author_email='team@proteus-tech.com',

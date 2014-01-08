@@ -1,16 +1,16 @@
 {
     "managers": [
-        "http://127.0.0.1:8001/api/user/sinapam/"
+        "http://127.0.0.1:8001/user/sinapam/"
     ],
     "name": "Test Project",
     "url": "http://127.0.0.1:8002/project/TST/",
     "icon_url": "",
-    "last_modified_by": "http://127.0.0.1:8001/api/user/chanita/",
+    "last_modified_by": "http://127.0.0.1:8001/user/chanita/",
     "abbreviation": "TST",
     "created_on": "2009-08-11 06:57:59",
-    "created_by": "http://127.0.0.1:8001/api/user/chanita/",
+    "created_by": "http://127.0.0.1:8001/user/chanita/",
     "agile_coaches": [
-        "http://127.0.0.1:8001/api/user/chanita/"
+        "http://127.0.0.1:8001/user/chanita/"
     ],
     "start_date": "2009-08-11",
     "last_modified_on": "2009-08-11 06:57:59",
